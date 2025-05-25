@@ -7,3 +7,4 @@ venues:
 organisers:
   - oakley-wellbeing-forum
 ---
+![Poster advertising the Wellbeing Forum. Logo, information text, event details for 15th July at 4pm](poster-wellbeing-forum-final.jpg "Our Oakley Wellbeing Forum")
