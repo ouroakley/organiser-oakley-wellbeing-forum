@@ -7,5 +7,6 @@ venues:
   - st-leonards-centre
 organisers:
   - oakley-wellbeing-forum
+date: 2025-07-15
 ---
 ![Poster advertising the Wellbeing Forum. Logo, information text, event details for 15th July at 4pm](poster-wellbeing-forum-final.jpg "Our Oakley Wellbeing Forum")

@@ -11,6 +11,7 @@ venues:
   - st-leonards-centre
 organisers:
   - oakley-wellbeing-forum
+date: 2025-05-26
 ---
 ![Our Oakley - What's On, Where? poster. Green, red and orange drawing of a hall. Date and time of event advertised. Map of venues](our-oakley-event-26th-may-25.jpg "Our Oakley What's on, where?")
 
