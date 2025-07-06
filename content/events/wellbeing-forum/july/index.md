@@ -9,4 +9,6 @@ venues:
   - st-leonards-centre
 organisers:
   - oakley-wellbeing-forum
+aliases:
+  - /events/2025/07/wellbeing-forum/
 ---
