@@ -3,8 +3,8 @@ title: Wellbeing Forum
 date: 2026-03-25
 poster: poster-wellbeing-forum-all-dates.jpg
 eventDates:
-  - start: 2026-03-25T16:00:00+01:00
-    end: 2026-03-25T17:00:00+01:00
+  - start: 2026-03-25T16:00:00+00:00
+    end: 2026-03-25T17:00:00+00:00
 venues:
   - st-leonards-centre
 organisers:
